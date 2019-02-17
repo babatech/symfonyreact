@@ -6,7 +6,7 @@ A sample project for Restaurants with symfony 4.2, Sqlite, Doctrine, React
 # How to run
 #### Pre-prerequisites
 * PHP > 7.2
-* yarn
+* NPM
 * composer
 
 #### With Symfony console 
@@ -14,6 +14,8 @@ A sample project for Restaurants with symfony 4.2, Sqlite, Doctrine, React
 * Clone the Repository 
 * cd to project directory
 * Run command "composer install"
+* Run command "npm install"
+* Run command "npm run build"
 * Run command "php bin/console server:run"
 * Check http://localhost:8000/
 
@@ -22,6 +24,8 @@ A sample project for Restaurants with symfony 4.2, Sqlite, Doctrine, React
 * Clone the Repository 
 * cd to project directory
 * Run command "composer install"
+* Run command "npm install"
+* Run command "npm run build"
 * Run command "docker-compose build"
 * Run command "docker-compose up"
 * Check http://localhost:8000/
