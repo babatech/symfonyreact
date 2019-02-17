@@ -6,6 +6,8 @@ A sample project for Restaurants with symfony 4.2, Sqlite, Doctrine
 # How to run
 #### Pre-prerequisites
 * PHP > 7.2
+* yarn
+* composer
 
 #### With Symfony console 
 
@@ -15,7 +17,7 @@ A sample project for Restaurants with symfony 4.2, Sqlite, Doctrine
 * Run command "php bin/console server:run"
 * Check http://localhost:8000/
 
-#### With docker
+#### With docker (in progress)
 
 * Clone the Repository 
 * cd to project directory
