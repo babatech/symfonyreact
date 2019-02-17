@@ -1,7 +1,7 @@
 Restaurant application with symfony, React, Docker
 =======
 
-A sample project for Restaurants with symfony 4.2, Sqlite, Doctrine
+A sample project for Restaurants with symfony 4.2, Sqlite, Doctrine, React
 
 # How to run
 #### Pre-prerequisites
